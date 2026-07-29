@@ -63,14 +63,12 @@ p { margin-top: 0; }
 .brand{
     display:flex;
     align-items:center;
-    gap:14px;
-    text-decoration:none;
+    gap:10px;
 }
 
 .brand-icon{
-    width:70px;
+    width:72px;
     height:auto;
-    flex-shrink:0;
 }
 
 .brand-info{
@@ -84,18 +82,20 @@ p { margin-top: 0; }
 }
 
 .brand-name{
-    font-size:40px;
+    font-size:34px;
     font-weight:800;
     color:#5b1d18;
     line-height:1;
 }
 
 .brand-tagline{
-    margin-top:4px;
-    font-size:18px;
-    font-weight:400;
+    margin-top:2px;
+    font-size:17px;
+    font-family:"Playfair Display", Georgia, serif;
     font-style:italic;
+    font-weight:400;
     color:#7b6965;
+    line-height:1.1;
 }
 .main-nav { display: flex; align-items: center; gap: 28px; font-size: .9rem; font-weight: 600; }
 .main-nav a { transition: color .2s ease; }
