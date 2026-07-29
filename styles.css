@@ -97,7 +97,6 @@ p { margin-top: 0; }
     color:#7b6965;
     line-height:1.1;
 }
-font-family: "Playfair Display", serif;
 .main-nav { display: flex; align-items: center; gap: 28px; font-size: .9rem; font-weight: 600; }
 .main-nav a { transition: color .2s ease; }
 .main-nav a:hover { color: var(--terracotta); }
